@@ -1,0 +1,354 @@
+
+Dump Summary
+------------
+Dump File:	qgis-20160821-152344-14792-11832-99ac688.dmp : C:\Users\Johanna\AppData\Local\Temp\qgis-20160821-152344-14792-11832-99ac688.dmp
+Last Write Time:	21/08/2016 3:23:44 PM
+Process Name:	qgis-bin.exe : C:\Program Files\QGIS Lyon\bin\qgis-bin.exe
+Process Architecture:	x64
+Exception Code:	0xC0000005
+Exception Information:	The thread tried to read from or write to a virtual address for which it does not have the appropriate access.
+Heap Information:	Not Present
+
+System Information
+------------------
+OS Version:	10.0.10586
+CLR Version(s):	
+
+Modules
+-------
+Module Name	Module Path	Module Version
+-----------	-----------	--------------
+qgis-bin.exe	C:\Program Files\QGIS Lyon\bin\qgis-bin.exe	0.0.0.0
+ntdll.dll	C:\Windows\System32\ntdll.dll	6.2.10586.306
+kernel32.dll	C:\Windows\System32\kernel32.dll	6.2.10586.0
+KERNELBASE.dll	C:\Windows\System32\KERNELBASE.dll	6.2.10586.494
+dbghelp.dll	C:\Windows\System32\dbghelp.dll	6.2.10586.0
+qgis_app.dll	C:\Program Files\QGIS Lyon\apps\qgis\bin\qgis_app.dll	0.0.0.0
+qgis_gui.dll	C:\Program Files\QGIS Lyon\apps\qgis\bin\qgis_gui.dll	0.0.0.0
+msvcrt.dll	C:\Windows\System32\msvcrt.dll	7.0.10586.0
+QtCore4.dll	C:\Program Files\QGIS Lyon\bin\QtCore4.dll	4.8.5.0
+qgis_core.dll	C:\Program Files\QGIS Lyon\apps\qgis\bin\qgis_core.dll	0.0.0.0
+user32.dll	C:\Windows\System32\user32.dll	6.2.10586.306
+gdi32.dll	C:\Windows\System32\gdi32.dll	6.2.10586.420
+ole32.dll	C:\Windows\System32\ole32.dll	6.2.10586.545
+combase.dll	C:\Windows\System32\combase.dll	6.2.10586.103
+rpcrt4.dll	C:\Windows\System32\rpcrt4.dll	6.2.10586.306
+bcryptPrimitives.dll	C:\Windows\System32\bcryptPrimitives.dll	6.2.10586.420
+sechost.dll	C:\Windows\System32\sechost.dll	6.2.10586.0
+advapi32.dll	C:\Windows\System32\advapi32.dll	6.2.10586.63
+ws2_32.dll	C:\Windows\System32\ws2_32.dll	6.2.10586.420
+QtGui4.dll	C:\Program Files\QGIS Lyon\bin\QtGui4.dll	4.8.5.0
+msvcp100.dll	C:\Program Files\QGIS Lyon\bin\msvcp100.dll	10.0.40219.1
+msvcr100.dll	C:\Program Files\QGIS Lyon\bin\msvcr100.dll	10.0.40219.1
+wsock32.dll	C:\Windows\System32\wsock32.dll	6.2.10586.0
+QtXml4.dll	C:\Program Files\QGIS Lyon\bin\QtXml4.dll	4.8.5.0
+comdlg32.dll	C:\Windows\System32\comdlg32.dll	6.2.10586.494
+SHCore.dll	C:\Windows\System32\SHCore.dll	6.2.10586.494
+shlwapi.dll	C:\Windows\System32\shlwapi.dll	6.2.10586.0
+shell32.dll	C:\Windows\System32\shell32.dll	6.2.10586.545
+qwt5.dll	C:\Program Files\QGIS Lyon\bin\qwt5.dll	5.2.3.0
+cfgmgr32.dll	C:\Windows\System32\cfgmgr32.dll	6.2.10586.0
+windows.storage.dll	C:\Windows\System32\windows.storage.dll	6.2.10586.494
+kernel.appcore.dll	C:\Windows\System32\kernel.appcore.dll	6.2.10586.0
+zlib1.dll	C:\Program Files\QGIS Lyon\bin\zlib1.dll	1.2.8.0
+powrprof.dll	C:\Windows\System32\powrprof.dll	6.2.10586.0
+profapi.dll	C:\Windows\System32\profapi.dll	6.2.10586.0
+FirewallAPI.dll	C:\Windows\System32\FirewallAPI.dll	6.2.10586.162
+netapi32.dll	C:\Windows\System32\netapi32.dll	6.2.10586.212
+oleaut32.dll	C:\Windows\System32\oleaut32.dll	6.2.10586.0
+imm32.dll	C:\Windows\System32\imm32.dll	6.2.10586.0
+QtNetwork4.dll	C:\Program Files\QGIS Lyon\bin\QtNetwork4.dll	4.8.5.0
+QtSvg4.dll	C:\Program Files\QGIS Lyon\bin\QtSvg4.dll	4.8.5.0
+QtWebKit4.dll	C:\Program Files\QGIS Lyon\bin\QtWebKit4.dll	4.9.4.0
+QtSql4.dll	C:\Program Files\QGIS Lyon\bin\QtSql4.dll	4.8.5.0
+qscintilla2.dll	C:\Program Files\QGIS Lyon\bin\qscintilla2.dll	0.0.0.0
+qca.dll	C:\Program Files\QGIS Lyon\bin\qca.dll	0.0.0.0
+geos_c.dll	C:\Program Files\QGIS Lyon\bin\geos_c.dll	0.0.0.0
+gdal111.dll	C:\Program Files\QGIS Lyon\bin\gdal111.dll	1.11.3.0
+spatialindex-64.dll	C:\Program Files\QGIS Lyon\bin\spatialindex-64.dll	0.0.0.0
+crypt32.dll	C:\Windows\System32\crypt32.dll	6.2.10586.494
+msasn1.dll	C:\Windows\System32\msasn1.dll	6.2.10586.0
+expat.dll	C:\Program Files\QGIS Lyon\bin\expat.dll	0.0.0.0
+sqlite3.dll	C:\Program Files\QGIS Lyon\bin\sqlite3.dll	0.0.0.0
+spatialite.dll	C:\Program Files\QGIS Lyon\bin\spatialite.dll	0.0.0.0
+comctl32.dll	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.10586.0_none_396e892957c7fb25\comctl32.dll	5.82.10586.0
+winmm.dll	C:\Windows\System32\winmm.dll	6.2.10586.0
+winspool.drv	C:\Windows\System32\winspool.drv	6.2.10586.122
+libpng16.dll	C:\Program Files\QGIS Lyon\bin\libpng16.dll	0.0.0.0
+version.dll	C:\Windows\System32\version.dll	6.2.10586.0
+libpq.dll	C:\Program Files\QGIS Lyon\bin\libpq.dll	9.2.4.13228
+odbc32.dll	C:\Windows\System32\odbc32.dll	6.2.10586.0
+ogdi.dll	C:\Program Files\QGIS Lyon\bin\ogdi.dll	0.0.0.0
+xerces-c_3_1.dll	C:\Program Files\QGIS Lyon\bin\xerces-c_3_1.dll	3.1.1.0
+Wldap32.dll	C:\Windows\System32\Wldap32.dll	6.2.10586.0
+jpeg.dll	C:\Program Files\QGIS Lyon\bin\jpeg.dll	0.0.0.0
+netcdf.dll	C:\Program Files\QGIS Lyon\bin\netcdf.dll	0.0.0.0
+geotiff.dll	C:\Program Files\QGIS Lyon\bin\geotiff.dll	0.0.0.0
+libtiff.dll	C:\Program Files\QGIS Lyon\bin\libtiff.dll	0.0.0.0
+libmysql.dll	C:\Program Files\QGIS Lyon\bin\libmysql.dll	6.1.0.0
+hdf5.dll	C:\Program Files\QGIS Lyon\bin\hdf5.dll	0.0.0.0
+libcurl.dll	C:\Program Files\QGIS Lyon\bin\libcurl.dll	7.31.0.0
+normaliz.dll	C:\Windows\System32\normaliz.dll	6.2.10586.0
+openjp2.dll	C:\Program Files\QGIS Lyon\bin\openjp2.dll	0.0.0.0
+iconv.dll	C:\Program Files\QGIS Lyon\bin\iconv.dll	0.0.0.0
+freexl.dll	C:\Program Files\QGIS Lyon\bin\freexl.dll	0.0.0.0
+msvcr120.dll	C:\Windows\System32\msvcr120.dll	12.0.21005.1
+msvcp120.dll	C:\Windows\System32\msvcp120.dll	12.0.21005.1
+proj.dll	C:\Program Files\QGIS Lyon\bin\proj.dll	0.0.0.0
+libxml2.dll	C:\Program Files\QGIS Lyon\bin\libxml2.dll	0.0.0.0
+WINMMBASE.dll	C:\Windows\System32\WINMMBASE.dll	6.2.10586.0
+bcrypt.dll	C:\Windows\System32\bcrypt.dll	6.2.10586.0
+dpapi.dll	C:\Windows\System32\dpapi.dll	6.2.10586.0
+ssleay32.dll	C:\Program Files\QGIS Lyon\bin\ssleay32.dll	1.0.1.7
+libeay32.dll	C:\Program Files\QGIS Lyon\bin\libeay32.dll	1.0.1.7
+secur32.dll	C:\Windows\System32\secur32.dll	6.2.10586.0
+jpeg12.dll	C:\Program Files\QGIS Lyon\bin\jpeg12.dll	0.0.0.0
+szip.dll	C:\Program Files\QGIS Lyon\bin\szip.dll	0.0.0.0
+davhlpr.dll	C:\Windows\System32\davhlpr.dll	6.2.10586.0
+msvcr90.dll	C:\Windows\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9177_none_08e695a3a83b6ce3\msvcr90.dll	9.0.30729.9177
+sspicli.dll	C:\Windows\System32\sspicli.dll	6.2.10586.0
+qgis_analysis.dll	C:\Program Files\QGIS Lyon\apps\qgis\bin\qgis_analysis.dll	0.0.0.0
+dbgcore.dll	C:\Windows\System32\dbgcore.dll	6.2.10586.0
+fwbase.dll	C:\Windows\System32\fwbase.dll	6.2.10586.162
+uxtheme.dll	C:\Windows\System32\uxtheme.dll	6.2.10586.0
+msctf.dll	C:\Windows\System32\msctf.dll	6.2.10586.71
+dwmapi.dll	C:\Windows\System32\dwmapi.dll	6.2.10586.0
+userenv.dll	C:\Windows\System32\userenv.dll	6.2.10586.0
+qgif4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\imageformats\qgif4.dll	4.8.5.0
+qico4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\imageformats\qico4.dll	4.8.5.0
+qjpeg4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\imageformats\qjpeg4.dll	4.8.5.0
+qmng4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\imageformats\qmng4.dll	4.8.5.0
+qsvg4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\imageformats\qsvg4.dll	4.8.5.0
+qtga4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\imageformats\qtga4.dll	4.8.5.0
+qtiff4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\imageformats\qtiff4.dll	4.8.5.0
+qsvgicon4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\iconengines\qsvgicon4.dll	4.8.5.0
+qca-gnupg.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\crypto\qca-gnupg.dll	0.0.0.0
+qca-logger.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\crypto\qca-logger.dll	0.0.0.0
+qca-ossl.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\crypto\qca-ossl.dll	0.0.0.0
+qca-softstore.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\crypto\qca-softstore.dll	0.0.0.0
+netutils.dll	C:\Windows\System32\netutils.dll	6.2.10586.0
+wkscli.dll	C:\Windows\System32\wkscli.dll	6.2.10586.212
+srvcli.dll	C:\Windows\System32\srvcli.dll	6.2.10586.212
+cryptsp.dll	C:\Windows\System32\cryptsp.dll	6.2.10586.0
+rsaenh.dll	C:\Windows\System32\rsaenh.dll	6.2.10586.306
+CRYPTBASE.dll	C:\Windows\System32\CRYPTBASE.dll	6.2.10586.0
+basicauthmethod.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\basicauthmethod.dll	0.0.0.0
+identcertauthmethod.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\identcertauthmethod.dll	0.0.0.0
+pkcs12authmethod.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\pkcs12authmethod.dll	0.0.0.0
+pkipathsauthmethod.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\pkipathsauthmethod.dll	0.0.0.0
+qsqlite4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\sqldrivers\qsqlite4.dll	4.8.5.0
+qgenericbearer4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\bearer\qgenericbearer4.dll	4.8.5.0
+IPHLPAPI.DLL	C:\Windows\System32\IPHLPAPI.DLL	6.2.10586.0
+nsi.dll	C:\Windows\System32\nsi.dll	6.2.10586.0
+dhcpcsvc.dll	C:\Windows\System32\dhcpcsvc.dll	6.2.10586.420
+dhcpcsvc6.DLL	C:\Windows\System32\dhcpcsvc6.DLL	6.2.10586.420
+qnativewifibearer4.dll	C:\Program Files\QGIS Lyon\apps\Qt4\plugins\bearer\qnativewifibearer4.dll	4.8.5.0
+wlanapi.dll	C:\Windows\System32\wlanapi.dll	6.2.10586.306
+mswsock.dll	C:\Windows\System32\mswsock.dll	6.2.10586.420
+dnsapi.dll	C:\Windows\System32\dnsapi.dll	6.2.10586.212
+rasadhlp.dll	C:\Windows\System32\rasadhlp.dll	6.2.10586.71
+edputil.dll	C:\Windows\System32\edputil.dll	6.2.10586.494
+coordinatecaptureplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\coordinatecaptureplugin.dll	0.0.0.0
+delimitedtextprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\delimitedtextprovider.dll	0.0.0.0
+dxf2shpconverterplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\dxf2shpconverterplugin.dll	0.0.0.0
+evis.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\evis.dll	0.0.0.0
+gdalprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\gdalprovider.dll	0.0.0.0
+gdal_ECW_JP2ECW.dll	C:\Program Files\QGIS Lyon\bin\gdalplugins\gdal_ECW_JP2ECW.dll	0.0.0.0
+NCSEcw.dll	C:\Program Files\QGIS Lyon\bin\NCSEcw.dll	5.0.1.1346
+imagehlp.dll	C:\Windows\System32\imagehlp.dll	6.2.10586.0
+gdal_GEOR.dll	C:\Program Files\QGIS Lyon\bin\gdalplugins\gdal_GEOR.dll	0.0.0.0
+oci.dll	C:\Program Files\QGIS Lyon\bin\oci.dll	12.1.0.0
+psapi.dll	C:\Windows\System32\psapi.dll	6.2.10586.0
+gdal_MG4Lidar.dll	C:\Program Files\QGIS Lyon\bin\gdalplugins\gdal_MG4Lidar.dll	0.0.0.0
+lti_lidar_dsdk.dll	C:\Program Files\QGIS Lyon\bin\lti_lidar_dsdk.dll	1.1.1.3422
+gdal_MrSID.dll	C:\Program Files\QGIS Lyon\bin\gdalplugins\gdal_MrSID.dll	0.0.0.0
+lti_dsdk.dll	C:\Program Files\QGIS Lyon\bin\lti_dsdk.dll	8.5.0.3422
+geometrycheckerplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\geometrycheckerplugin.dll	0.0.0.0
+geometrysnapperplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\geometrysnapperplugin.dll	0.0.0.0
+georefplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\georefplugin.dll	0.0.0.0
+gsl.dll	C:\Program Files\QGIS Lyon\bin\gsl.dll	0.0.0.0
+cblas.dll	C:\Program Files\QGIS Lyon\bin\cblas.dll	0.0.0.0
+globeplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\globeplugin.dll	0.0.0.0
+osg97-osgGA.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgGA.dll	3.1.7.97
+osg97-osgDB.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgDB.dll	3.1.7.97
+QtOpenGL4.dll	C:\Program Files\QGIS Lyon\bin\QtOpenGL4.dll	4.8.5.0
+osg97-osg.dll	C:\Program Files\QGIS Lyon\bin\osg97-osg.dll	3.1.7.97
+osg97-osgQt.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgQt.dll	3.1.7.97
+osg97-osgViewer.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgViewer.dll	3.1.7.97
+osgEarth.dll	C:\Program Files\QGIS Lyon\bin\osgEarth.dll	0.0.0.0
+osgEarthUtil.dll	C:\Program Files\QGIS Lyon\bin\osgEarthUtil.dll	0.0.0.0
+osgEarthQt.dll	C:\Program Files\QGIS Lyon\bin\osgEarthQt.dll	0.0.0.0
+ot12-OpenThreads.dll	C:\Program Files\QGIS Lyon\bin\ot12-OpenThreads.dll	2.6.0.12
+osg97-osgUtil.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgUtil.dll	3.1.7.97
+opengl32.dll	C:\Windows\System32\opengl32.dll	6.2.10586.0
+osg97-osgText.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgText.dll	3.1.7.97
+osg97-osgTerrain.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgTerrain.dll	3.1.7.97
+osgEarthFeatures.dll	C:\Program Files\QGIS Lyon\bin\osgEarthFeatures.dll	0.0.0.0
+osgEarthSymbology.dll	C:\Program Files\QGIS Lyon\bin\osgEarthSymbology.dll	0.0.0.0
+osg97-osgShadow.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgShadow.dll	3.1.7.97
+gdal110.dll	C:\Program Files\QGIS Lyon\bin\gdal110.dll	1.10.1.0
+osg97-osgManipulator.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgManipulator.dll	3.1.7.97
+osgEarthAnnotation.dll	C:\Program Files\QGIS Lyon\bin\osgEarthAnnotation.dll	0.0.0.0
+osg97-osgSim.dll	C:\Program Files\QGIS Lyon\bin\osg97-osgSim.dll	3.1.7.97
+glu32.dll	C:\Windows\System32\glu32.dll	6.2.10586.0
+ddraw.dll	C:\Windows\System32\ddraw.dll	6.2.10586.0
+dciman32.dll	C:\Windows\System32\dciman32.dll	6.2.10586.3
+gpsimporterplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\gpsimporterplugin.dll	0.0.0.0
+gpxprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\gpxprovider.dll	0.0.0.0
+heatmapplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\heatmapplugin.dll	0.0.0.0
+interpolationplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\interpolationplugin.dll	0.0.0.0
+memoryprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\memoryprovider.dll	0.0.0.0
+mssqlprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\mssqlprovider.dll	0.0.0.0
+offlineeditingplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\offlineeditingplugin.dll	0.0.0.0
+ogrprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\ogrprovider.dll	0.0.0.0
+ogr_OCI.dll	C:\Program Files\QGIS Lyon\bin\gdalplugins\ogr_OCI.dll	0.0.0.0
+ogr_SOSI.dll	C:\Program Files\QGIS Lyon\bin\gdalplugins\ogr_SOSI.dll	0.0.0.0
+oracleplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\oracleplugin.dll	0.0.0.0
+oracleprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\oracleprovider.dll	0.0.0.0
+owsprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\owsprovider.dll	0.0.0.0
+postgresprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\postgresprovider.dll	0.0.0.0
+rasterterrainplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\rasterterrainplugin.dll	0.0.0.0
+roadgraphplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\roadgraphplugin.dll	0.0.0.0
+qgis_networkanalysis.dll	C:\Program Files\QGIS Lyon\apps\qgis\bin\qgis_networkanalysis.dll	0.0.0.0
+spatialiteprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\spatialiteprovider.dll	0.0.0.0
+spatialqueryplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\spatialqueryplugin.dll	0.0.0.0
+spitplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\spitplugin.dll	0.0.0.0
+topolplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\topolplugin.dll	0.0.0.0
+wcsprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\wcsprovider.dll	0.0.0.0
+wfsprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\wfsprovider.dll	0.0.0.0
+wmsprovider.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\wmsprovider.dll	0.0.0.0
+QtScript4.dll	C:\Program Files\QGIS Lyon\bin\QtScript4.dll	4.8.5.0
+zonalstatisticsplugin.dll	C:\Program Files\QGIS Lyon\apps\qgis\plugins\zonalstatisticsplugin.dll	0.0.0.0
+qgispython.DLL	C:\Program Files\QGIS Lyon\apps\qgis\bin\qgispython.DLL	0.0.0.0
+python27.dll	C:\Program Files\QGIS Lyon\bin\python27.dll	2.7.5150.1013
+sip.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\sip.pyd	0.0.0.0
+QtCore.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PyQt4\QtCore.pyd	0.0.0.0
+QtGui.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PyQt4\QtGui.pyd	0.0.0.0
+_core.pyd	C:\Program Files\QGIS Lyon\apps\qgis\python\qgis\_core.pyd	0.0.0.0
+QtSql.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PyQt4\QtSql.pyd	0.0.0.0
+QtNetwork.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PyQt4\QtNetwork.pyd	0.0.0.0
+QtXml.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PyQt4\QtXml.pyd	0.0.0.0
+_gui.pyd	C:\Program Files\QGIS Lyon\apps\qgis\python\qgis\_gui.pyd	0.0.0.0
+Qsci.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PyQt4\Qsci.pyd	0.0.0.0
+_hashlib.pyd	C:\Program Files\QGIS Lyon\apps\Python27\DLLs\_hashlib.pyd	0.0.0.0
+_gdal.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\osgeo\_gdal.pyd	0.0.0.0
+_gdalconst.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\osgeo\_gdalconst.pyd	0.0.0.0
+_ogr.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\osgeo\_ogr.pyd	0.0.0.0
+_osr.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\osgeo\_osr.pyd	0.0.0.0
+_socket.pyd	C:\Program Files\QGIS Lyon\apps\Python27\DLLs\_socket.pyd	0.0.0.0
+_ssl.pyd	C:\Program Files\QGIS Lyon\apps\Python27\DLLs\_ssl.pyd	0.0.0.0
+NapiNSP.dll	C:\Windows\System32\NapiNSP.dll	6.2.10586.0
+pnrpnsp.dll	C:\Windows\System32\pnrpnsp.dll	6.2.10586.0
+nlaapi.dll	C:\Windows\System32\nlaapi.dll	6.2.10586.0
+winrnr.dll	C:\Windows\System32\winrnr.dll	6.2.10586.0
+wshbth.dll	C:\Windows\System32\wshbth.dll	6.2.10586.545
+mdnsNSP.dll	C:\Program Files\Bonjour\mdnsNSP.dll	3.1.0.1
+win32api.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\win32\win32api.pyd	2.7.218.0
+pywintypes27.dll	C:\Program Files\QGIS Lyon\bin\pywintypes27.dll	2.7.218.0
+_speedups.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\markupsafe-0.23-py2.7-win-amd64.egg\markupsafe\_speedups.pyd	0.0.0.0
+_imaging.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PIL\_imaging.pyd	0.0.0.0
+pyexpat.pyd	C:\Program Files\QGIS Lyon\apps\Python27\DLLs\pyexpat.pyd	0.0.0.0
+_ctypes.pyd	C:\Program Files\QGIS Lyon\apps\Python27\DLLs\_ctypes.pyd	0.0.0.0
+QtWebKit.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\PyQt4\QtWebKit.pyd	0.0.0.0
+multiarray.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\core\multiarray.pyd	0.0.0.0
+umath.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\core\umath.pyd	0.0.0.0
+_dotblas.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\core\_dotblas.pyd	0.0.0.0
+libiomp5md.dll	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\core\libiomp5md.dll	5.0.2014.401
+scalarmath.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\core\scalarmath.pyd	0.0.0.0
+_compiled_base.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\lib\_compiled_base.pyd	0.0.0.0
+lapack_lite.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\linalg\lapack_lite.pyd	0.0.0.0
+_umath_linalg.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\linalg\_umath_linalg.pyd	0.0.0.0
+fftpack_lite.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\fft\fftpack_lite.pyd	0.0.0.0
+mtrand.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\random\mtrand.pyd	0.0.0.0
+_path.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\_path.pyd	0.0.0.0
+msvcp90.dll	C:\Windows\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9177_none_08e695a3a83b6ce3\msvcp90.dll	9.0.30729.9177
+ft2font.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\ft2font.pyd	0.0.0.0
+unicodedata.pyd	C:\Program Files\QGIS Lyon\apps\Python27\DLLs\unicodedata.pyd	0.0.0.0
+_png.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\_png.pyd	0.0.0.0
+_cntr.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\_cntr.pyd	0.0.0.0
+_image.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\_image.pyd	0.0.0.0
+_delaunay.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\_delaunay.pyd	0.0.0.0
+_tri.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\_tri.pyd	0.0.0.0
+_backend_agg.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\matplotlib-1.3.1-py2.7-win-amd64.egg\matplotlib\backends\_backend_agg.pyd	0.0.0.0
+_ufuncs.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\special\_ufuncs.pyd	0.0.0.0
+libmmd.dll	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\core\libmmd.dll	14.0.0.3
+libifcoremd.dll	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\numpy\core\libifcoremd.dll	14.0.103.103
+_ufuncs_cxx.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\special\_ufuncs_cxx.pyd	0.0.0.0
+specfun.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\special\specfun.pyd	0.0.0.0
+_fblas.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\linalg\_fblas.pyd	0.0.0.0
+_flinalg.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\linalg\_flinalg.pyd	0.0.0.0
+_flapack.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\linalg\_flapack.pyd	0.0.0.0
+calc_lwork.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\linalg\calc_lwork.pyd	0.0.0.0
+futil.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\stats\futil.pyd	0.0.0.0
+minpack2.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\minpack2.pyd	0.0.0.0
+_lbfgsb.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\_lbfgsb.pyd	0.0.0.0
+moduleTNC.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\moduleTNC.pyd	0.0.0.0
+_cobyla.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\_cobyla.pyd	0.0.0.0
+_slsqp.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\_slsqp.pyd	0.0.0.0
+_minpack.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\_minpack.pyd	0.0.0.0
+_sparsetools.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\_sparsetools.pyd	0.0.0.0
+_csparsetools.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\_csparsetools.pyd	0.0.0.0
+_shortest_path.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\csgraph\_shortest_path.pyd	0.0.0.0
+_tools.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\csgraph\_tools.pyd	0.0.0.0
+_traversal.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\csgraph\_traversal.pyd	0.0.0.0
+_min_spanning_tree.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\csgraph\_min_spanning_tree.pyd	0.0.0.0
+_iterative.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\linalg\isolve\_iterative.pyd	0.0.0.0
+_superlu.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\linalg\dsolve\_superlu.pyd	0.0.0.0
+_arpack.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\sparse\linalg\eigen\arpack\_arpack.pyd	0.0.0.0
+_zeros.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\_zeros.pyd	0.0.0.0
+_nnls.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\optimize\_nnls.pyd	0.0.0.0
+_odepack.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\integrate\_odepack.pyd	0.0.0.0
+_quadpack.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\integrate\_quadpack.pyd	0.0.0.0
+vode.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\integrate\vode.pyd	0.0.0.0
+_dop.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\integrate\_dop.pyd	0.0.0.0
+lsoda.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\integrate\lsoda.pyd	0.0.0.0
+vonmises_cython.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\stats\vonmises_cython.pyd	0.0.0.0
+_rank.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\stats\_rank.pyd	0.0.0.0
+statlib.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\stats\statlib.pyd	0.0.0.0
+mvn.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\scipy\stats\mvn.pyd	0.0.0.0
+_psycopg.pyd	C:\Program Files\QGIS Lyon\apps\Python27\Lib\site-packages\psycopg2\_psycopg.pyd	0.0.0.0
+FWPUCLNT.DLL	C:\Windows\System32\FWPUCLNT.DLL	6.2.10586.212
+clbcatq.dll	C:\Windows\System32\clbcatq.dll	2001.12.10941.16384
+dataexchange.dll	C:\Windows\System32\dataexchange.dll	6.2.10586.0
+dcomp.dll	C:\Windows\System32\dcomp.dll	6.2.10586.494
+d3d11.dll	C:\Windows\System32\d3d11.dll	6.2.10586.494
+dxgi.dll	C:\Windows\System32\dxgi.dll	6.2.10586.494
+twinapi.appcore.dll	C:\Windows\System32\twinapi.appcore.dll	6.2.10586.494
+propsys.dll	C:\Windows\System32\propsys.dll	7.0.10586.494
+comctl32.dll	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.494_none_a2d8b04ea53e3145\comctl32.dll	6.10.10586.494
+WindowsCodecs.dll	C:\Windows\System32\WindowsCodecs.dll	6.2.10586.494
+thumbcache.dll	C:\Windows\System32\thumbcache.dll	6.2.10586.112
+apphelp.dll	C:\Windows\System32\apphelp.dll	6.2.10586.0
+FileSyncShell64.dll	C:\Users\Johanna\AppData\Local\Microsoft\OneDrive\17.3.6390.0509\amd64\FileSyncShell64.dll	17.3.6390.509
+LoggingPlatform64.DLL	C:\Users\Johanna\AppData\Local\Microsoft\OneDrive\17.3.6390.0509\amd64\LoggingPlatform64.DLL	17.3.6390.509
+wininet.dll	C:\Windows\System32\wininet.dll	11.0.10586.545
+ClientTelemetry.dll	C:\Users\Johanna\AppData\Local\Microsoft\OneDrive\17.3.6390.0509\amd64\ClientTelemetry.dll	1.2.502.0
+GROOVEEX.DLL	C:\Program Files (x86)\Microsoft Office\root\VFS\ProgramFilesX64\Microsoft Office\Office16\GROOVEEX.DLL	16.0.7030.1021
+msvcp140.dll	C:\Windows\System32\msvcp140.dll	14.0.23506.0
+VCRUNTIME140.dll	C:\Windows\System32\VCRUNTIME140.dll	14.0.23506.0
+ucrtbase.dll	C:\Windows\System32\ucrtbase.dll	6.2.10586.0
+msi.dll	C:\Windows\System32\msi.dll	5.0.10586.212
+GrooveIntlResource.dll	C:\Program Files (x86)\Microsoft Office\root\VFS\ProgramFilesX64\Microsoft Office\Office16\1033\GrooveIntlResource.dll	16.0.7030.1021
+EhStorShell.dll	C:\Windows\System32\EhStorShell.dll	6.2.10586.0
+setupapi.dll	C:\Windows\System32\setupapi.dll	6.2.10586.420
+mssprxy.dll	C:\Windows\System32\mssprxy.dll	7.0.10586.0
+mpr.dll	C:\Windows\System32\mpr.dll	6.2.10586.0
+drprov.dll	C:\Windows\System32\drprov.dll	6.2.10586.0
+winsta.dll	C:\Windows\System32\winsta.dll	6.2.10586.0
+ntlanman.dll	C:\Windows\System32\ntlanman.dll	6.2.10586.0
+davclnt.dll	C:\Windows\System32\davclnt.dll	6.2.10586.0
+cscapi.dll	C:\Windows\System32\cscapi.dll	6.2.10586.0
+ntshrui.dll	C:\Windows\System32\ntshrui.dll	6.2.10586.494
+devobj.dll	C:\Windows\System32\devobj.dll	6.2.10586.0
+wintrust.dll	C:\Windows\System32\wintrust.dll	6.2.10586.0
+actxprxy.dll	C:\Windows\System32\actxprxy.dll	6.2.10586.494
+dlnashext.dll	C:\Windows\System32\dlnashext.dll	12.0.10586.494
+PlayToDevice.dll	C:\Windows\System32\PlayToDevice.dll	12.0.10586.494
+DevDispItemProvider.dll	C:\Windows\System32\DevDispItemProvider.dll	6.2.10586.0
+MMDevAPI.dll	C:\Windows\System32\MMDevAPI.dll	6.2.10586.0
+wpdshext.dll	C:\Windows\System32\wpdshext.dll	6.2.10586.494
+GdiPlus.dll	C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.10586.545_none_d3c4a617ffcfbffc\GdiPlus.dll	6.2.10586.545
+MrmCoreR.dll	C:\Windows\System32\MrmCoreR.dll	6.2.10586.0
+iertutil.dll	C:\Windows\System32\iertutil.dll	11.0.10586.545
+Bcp47Langs.dll	C:\Windows\System32\Bcp47Langs.dll	6.2.10586.0
+Windows.UI.dll	C:\Windows\System32\Windows.UI.dll	6.2.10586.494
